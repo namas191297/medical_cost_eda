@@ -1,6 +1,6 @@
 # Medical Cost Analysis
 
-This repository shows a detail EDA of a data set consisting of the cost of treatment of different patients. The cost of treatment depends on many factors such as the type of clinic, diagnosis, region, gender etc. 
+This repository shows a detailed EDA of a data set consisting of the cost of treatment of different patients. The cost of treatment depends on many factors such as the type of clinic, diagnosis, region, gender etc. 
 
 This Medical Cost dataset can be useful in analysing the different features and their correlation that affects the cost and expenses and can be used to extract/find useful features that can be used in estimating expenses.  
 
